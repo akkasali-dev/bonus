@@ -1,0 +1,33 @@
+.swim-container{
+    position: relative;
+    border: 2px solid red;
+}
+.box{
+    border: 2px dotted red;
+    width: 200px;
+} 
+/* .ring{
+    position: relative;
+    left: 50px;
+    top: 30px;
+    
+} */
+ /* .ring{
+    position: absolute;
+    top: 40px;
+    left: 200px; 
+ }*/
+ /* .ring{
+    position: sticky;
+    top: 0px;
+ } */
+  .ring{
+    position: fixed;
+    top: 250px;
+    left: 50px;
+  }
+ .dummy{
+    border: 1px solid peru;
+    width: 200px;
+    height: 200px;
+ }
